@@ -2,10 +2,12 @@ Fruit_classification
 
 the fruit_classification project contains two files: train.py and test.py
 
- train.py have two inputs		and two outputs
- 	train_dir : train pictures		json_file : outputs direction of *.json
-	test_dir  : test pictures		weights	  : outputs direction of *.h5
-
+ train.py have two inputs	
+ 	train_dir : train pictures		
+	test_dir  : test pictures		
+ and two outputs
+	 json_file : outputs direction of *.json
+	 weights	  : outputs direction of *.h5
 
  test.py have three inputs				and one output
 	img_filename : inout picrure
